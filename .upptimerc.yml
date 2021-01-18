@@ -11,7 +11,7 @@ sites:
   - name: Script API
     url: https://benfoster.dev/script/test
   - name: Code Page
-    url: https://benfoster.dev/code
+    url: https://code.benfoster.dev
 
 assignees:
   - benfoster04
