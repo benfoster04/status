@@ -9,7 +9,7 @@ sites:
   - name: Main Site
     url: https://benfoster.dev
   - name: Script API
-    url: https://benfoster.dev/script/api
+    url: https://benfoster.dev/script/test
   - name: Code Page
     url: https://benfoster.dev/code
 
@@ -32,6 +32,14 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Homepage
       href: https://benfoster.dev
+i18n:
+  footer: Copyright Ben Foster Development 2021 - All Rights Reserved.
+  up: Online
+  down: Offline
+  degraded: Partial
+  incidentFixed: Rectified
+  incidentBack: ← Return
+  pastIncidents: Incident History
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
