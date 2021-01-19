@@ -1,0 +1,31 @@
+/* Logo */
+h4.logo {
+    font-size: 18pt;
+    font-family: 'Pacifico', cursive;
+    word-spacing: -3px;
+}
+h4.logo::before {
+    content: '<';
+    font-size: 16pt;
+}
+h4.logo::after {
+    content: '/>';
+    font-size: 16pt;
+}
+/* The rest */
+body {
+  color: #fff;
+  background: #000;
+}
+article {
+  background-color: #111;
+}
+article.good {
+  background-color: #000;
+  border: 2px solid #00bd00;
+}
+section > article > h4 > img {display: none}
+nav {
+  padding: 0;
+  background-color: #111;
+}
