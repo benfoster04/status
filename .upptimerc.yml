@@ -32,7 +32,7 @@ status-website:
       href: https://github.com/$OWNER
     - title: Homepage
       href: https://benfoster.dev
-  css: "h4.logo{font-size:18pt;font-family:'Pacifico',cursive;word-spacing:-3px}h4.logo::before{content:'<';font-size:16pt}h4.logo::after{content:'/>';font-size:16pt}body{color:#fff;background:#000}article{background-color:#111}main.container > section > article.down{background-color:#111;border: 0.2rem solid #e74c3c}main.container > article.good{background-color:#000;border: 2px solid #00bd00;color:#fff}section > article > h4 > img{display:none}div#sapper > nav{padding:0;background-color:#111}"
+  css: "h4.logo{font-size:18pt;font-family:'Pacifico',cursive;word-spacing:-3px}h4.logo::before{content:'<';font-size:16pt}h4.logo::after{content:'/>';font-size:16pt}body{color:#fff;background:#000}article{background-color:#111}main.container > section:first-of-type > article.down{background-color:#111;border: 0.2rem solid #e74c3c}main.container > article.good{background-color:#000;border: 2px solid #00bd00;color:#fff}section > article > h4 > img{display:none}div#sapper > nav{padding:0;background-color:#111}"
   links:
     #- rel: stylesheet
     #  href: https://raw.githubusercontent.com/benfoster04/status/master/style.css
