@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/canary.benfoster.dev",
     "slug": "canary-page",
     "status": "down",
-    "uptime": "26.14%",
-    "uptimeDay": "26.14%",
-    "uptimeWeek": "26.14%",
-    "uptimeMonth": "26.14%",
-    "uptimeYear": "26.14%",
+    "uptime": "25.84%",
+    "uptimeDay": "25.84%",
+    "uptimeWeek": "25.84%",
+    "uptimeMonth": "25.84%",
+    "uptimeYear": "25.84%",
     "time": 1442,
     "timeDay": 1442,
     "timeWeek": 1442,
     "timeMonth": 1442,
     "timeYear": 1442,
     "dailyMinutesDown": {
-      "2021-01-19": 845
+      "2021-01-19": 858
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://benfoster.dev",
     "icon": "https://favicons.githubusercontent.com/benfoster.dev",
     "slug": "main-site",
-    "status": "up",
-    "uptime": "29.32%",
-    "uptimeDay": "29.32%",
-    "uptimeWeek": "29.32%",
-    "uptimeMonth": "29.32%",
-    "uptimeYear": "29.32%",
+    "status": "down",
+    "uptime": "30.03%",
+    "uptimeDay": "30.03%",
+    "uptimeWeek": "30.03%",
+    "uptimeMonth": "30.03%",
+    "uptimeYear": "30.03%",
     "time": 939,
     "timeDay": 939,
     "timeWeek": 939,
     "timeMonth": 939,
     "timeYear": 939,
     "dailyMinutesDown": {
-      "2021-01-19": 809
+      "2021-01-19": 810
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://benfoster.dev/script/test",
     "icon": "https://favicons.githubusercontent.com/benfoster.dev",
     "slug": "script-api",
-    "status": "up",
-    "uptime": "31.72%",
-    "uptimeDay": "31.72%",
-    "uptimeWeek": "31.72%",
-    "uptimeMonth": "31.72%",
-    "uptimeYear": "31.72%",
+    "status": "down",
+    "uptime": "32.46%",
+    "uptimeDay": "32.46%",
+    "uptimeWeek": "32.46%",
+    "uptimeMonth": "32.46%",
+    "uptimeYear": "32.46%",
     "time": 841,
     "timeDay": 841,
     "timeWeek": 841,
     "timeMonth": 841,
     "timeYear": 841,
     "dailyMinutesDown": {
-      "2021-01-19": 726,
+      "2021-01-19": 727,
       "2021-01-18": 55
     }
   },
@@ -66,18 +66,18 @@
     "icon": "https://favicons.githubusercontent.com/code.benfoster.dev",
     "slug": "code-page",
     "status": "down",
-    "uptime": "31.41%",
-    "uptimeDay": "31.41%",
-    "uptimeWeek": "31.41%",
-    "uptimeMonth": "31.41%",
-    "uptimeYear": "31.41%",
+    "uptime": "31.05%",
+    "uptimeDay": "31.05%",
+    "uptimeWeek": "31.05%",
+    "uptimeMonth": "31.05%",
+    "uptimeYear": "31.05%",
     "time": 1984,
     "timeDay": 1984,
     "timeWeek": 1984,
     "timeMonth": 1984,
     "timeYear": 1984,
     "dailyMinutesDown": {
-      "2021-01-19": 730,
+      "2021-01-19": 743,
       "2021-01-18": 55
     }
   }
