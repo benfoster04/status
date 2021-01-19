@@ -21,17 +21,21 @@ status-website:
   cname: status.benfoster.dev
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/benfoster04/status/master/logo_white.png
-  name: Ben Foster Development
+  # logoUrl: https://raw.githubusercontent.com/benfoster04/status/master/logo_white.png
+  name: "<h4 class='logo'>Ben Foster</h4>"
   introTitle: Ben Foster Development Status Page
   introMessage: Personal status page detailing the availability of publicly available services provided by me
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER
     - title: Homepage
       href: https://benfoster.dev
+  links:
+    - rel: stylesheet
+      href: https://raw.githubusercontent.com/benfoster04/status/master/style.css
+      
 i18n:
   footer: Copyright Ben Foster Development 2021 - All Rights Reserved.
   up: Online
