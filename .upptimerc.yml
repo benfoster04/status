@@ -4,6 +4,10 @@ repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
+  - name: Nanseee Network N1
+    url: https://n1.nanseee.net
+  - name: Nanseee Network N2
+    url: https://n2.nanseee.net
   - name: Canary Page
     url: https://canary.benfoster.dev
   - name: Main Site
