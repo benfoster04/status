@@ -12,8 +12,8 @@ sites:
     url: https://canary.benfoster.dev
   - name: Main Site
     url: https://benfoster.dev
-  - name: Script API
-    url: https://benfoster.dev/script/test
+  - name: ChooChoo API
+    url: https://benfoster.dev/choochoo/rug-bhm
   - name: Code Page
     url: https://code.benfoster.dev
 
