@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/n1.nanseee.net",
     "slug": "nanseee-network-n1",
     "status": "up",
-    "uptime": "97.66%",
+    "uptime": "97.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "97.35%",
     "time": 665,
-    "timeDay": 648,
-    "timeWeek": 524,
-    "timeMonth": 556,
+    "timeDay": 725,
+    "timeWeek": 550,
+    "timeMonth": 557,
     "timeYear": 690,
     "dailyMinutesDown": {
       "2022-04-02": 31,
@@ -54,9 +54,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 702,
-    "timeDay": 692,
-    "timeWeek": 510,
+    "time": 701,
+    "timeDay": 682,
+    "timeWeek": 544,
     "timeMonth": 553,
     "timeYear": 713,
     "dailyMinutesDown": {
@@ -82,15 +82,15 @@
     "icon": "https://favicons.githubusercontent.com/canary.benfoster.dev",
     "slug": "canary-page",
     "status": "up",
-    "uptime": "93.22%",
+    "uptime": "93.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.39%",
-    "time": 927,
-    "timeDay": 634,
-    "timeWeek": 491,
-    "timeMonth": 496,
+    "uptimeYear": "92.41%",
+    "time": 926,
+    "timeDay": 566,
+    "timeWeek": 503,
+    "timeMonth": 495,
     "timeYear": 581,
     "dailyMinutesDown": {
       "2022-03-04": 943,
@@ -124,8 +124,7 @@
       "2021-05-09": 1440,
       "2021-05-08": 1440,
       "2021-05-07": 1440,
-      "2021-05-06": 1367,
-      "2021-04-30": 372
+      "2021-05-06": 1367
     }
   },
   {
@@ -134,14 +133,14 @@
     "icon": "https://favicons.githubusercontent.com/benfoster.dev",
     "slug": "main-site",
     "status": "up",
-    "uptime": "93.68%",
+    "uptime": "93.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.41%",
+    "uptimeYear": "92.43%",
     "time": 700,
-    "timeDay": 569,
-    "timeWeek": 456,
+    "timeDay": 577,
+    "timeWeek": 470,
     "timeMonth": 492,
     "timeYear": 567,
     "dailyMinutesDown": {
@@ -177,8 +176,7 @@
       "2021-05-09": 1440,
       "2021-05-08": 1440,
       "2021-05-07": 1440,
-      "2021-05-06": 1266,
-      "2021-04-30": 372
+      "2021-05-06": 1266
     }
   },
   {
@@ -187,16 +185,16 @@
     "icon": "https://favicons.githubusercontent.com/benfoster.dev",
     "slug": "choo-choo-api",
     "status": "up",
-    "uptime": "98.86%",
+    "uptime": "98.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.86%",
-    "time": 281,
-    "timeDay": 320,
-    "timeWeek": 256,
+    "uptimeYear": "98.88%",
+    "time": 282,
+    "timeDay": 305,
+    "timeWeek": 262,
     "timeMonth": 288,
-    "timeYear": 281,
+    "timeYear": 282,
     "dailyMinutesDown": {
       "2022-03-04": 940
     }
@@ -207,15 +205,15 @@
     "icon": "https://favicons.githubusercontent.com/code.benfoster.dev",
     "slug": "code-page",
     "status": "up",
-    "uptime": "93.25%",
+    "uptime": "93.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.39%",
+    "uptimeYear": "92.42%",
     "time": 665,
-    "timeDay": 496,
-    "timeWeek": 417,
-    "timeMonth": 475,
+    "timeDay": 505,
+    "timeWeek": 453,
+    "timeMonth": 474,
     "timeYear": 517,
     "dailyMinutesDown": {
       "2022-03-04": 939,
@@ -249,8 +247,7 @@
       "2021-05-09": 1440,
       "2021-05-08": 1440,
       "2021-05-07": 1440,
-      "2021-05-06": 1364,
-      "2021-04-30": 372
+      "2021-05-06": 1364
     }
   }
 ]
