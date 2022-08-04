@@ -40,7 +40,7 @@ status-website:
       href: https://fonts.googleapis.com/css2?family=Pacifico
       
 i18n:
-  footer: Copyright Ben Foster Development 2021 - All Rights Reserved.
+  footer: Copyright Ben Foster Development 2022 - All Rights Reserved.
   up: Online
   down: Offline
   degraded: Partial
