@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/canary.benfoster.dev.ico",
     "slug": "canary-page",
     "status": "up",
-    "uptime": "94.93%",
+    "uptime": "94.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.96%",
+    "uptimeYear": "97.00%",
     "time": 583,
-    "timeDay": 597,
-    "timeWeek": 447,
+    "timeDay": 588,
+    "timeWeek": 476,
     "timeMonth": 436,
     "timeYear": 559,
     "dailyMinutesDown": {
@@ -32,8 +32,7 @@
       "2022-06-17": 1440,
       "2022-06-16": 1440,
       "2022-06-15": 1440,
-      "2022-06-14": 1326,
-      "2022-05-12": 837
+      "2022-06-14": 1326
     }
   },
   {
@@ -46,11 +45,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.96%",
+    "uptimeYear": "97.00%",
     "time": 477,
-    "timeDay": 596,
-    "timeWeek": 435,
-    "timeMonth": 421,
+    "timeDay": 584,
+    "timeWeek": 466,
+    "timeMonth": 422,
     "timeYear": 465,
     "dailyMinutesDown": {
       "2023-03-24": 596,
@@ -69,8 +68,7 @@
       "2022-06-17": 1440,
       "2022-06-16": 1440,
       "2022-06-15": 1440,
-      "2022-06-14": 1324,
-      "2022-05-12": 837
+      "2022-06-14": 1324
     }
   },
   {
@@ -83,10 +81,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.96%",
+    "uptimeYear": "97.00%",
     "time": 269,
-    "timeDay": 324,
-    "timeWeek": 237,
+    "timeDay": 315,
+    "timeWeek": 252,
     "timeMonth": 235,
     "timeYear": 267,
     "dailyMinutesDown": {
@@ -106,8 +104,7 @@
       "2022-06-17": 1440,
       "2022-06-16": 1440,
       "2022-06-15": 1440,
-      "2022-06-14": 1323,
-      "2022-05-12": 854
+      "2022-06-14": 1323
     }
   },
   {
@@ -120,12 +117,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.97%",
+    "uptimeYear": "97.01%",
     "time": 542,
-    "timeDay": 576,
-    "timeWeek": 430,
-    "timeMonth": 422,
-    "timeYear": 552,
+    "timeDay": 600,
+    "timeWeek": 463,
+    "timeMonth": 425,
+    "timeYear": 553,
     "dailyMinutesDown": {
       "2023-03-24": 593,
       "2023-03-23": 1315,
@@ -143,8 +140,7 @@
       "2022-06-17": 1440,
       "2022-06-16": 1440,
       "2022-06-15": 1440,
-      "2022-06-14": 1321,
-      "2022-05-12": 837
+      "2022-06-14": 1321
     }
   }
 ]
