@@ -1,7 +1,7 @@
 url: https://canary.benfoster.dev
-status: up
-code: 200
-responseTime: 504
-lastUpdated: 2023-09-20T23:10:07.348Z
+status: down
+code: 502
+responseTime: 124
+lastUpdated: 2023-09-21T22:28:29.902Z
 startTime: 2021-01-18T20:52:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
