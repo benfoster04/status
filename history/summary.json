@@ -11,10 +11,10 @@
     "uptimeMonth": "97.97%",
     "uptimeYear": "96.52%",
     "time": 578,
-    "timeDay": 606,
-    "timeWeek": 476,
-    "timeMonth": 568,
-    "timeYear": 567,
+    "timeDay": 465,
+    "timeWeek": 458,
+    "timeMonth": 561,
+    "timeYear": 566,
     "dailyMinutesDown": {
       "2023-12-29": 890,
       "2023-11-18": 1064,
@@ -35,8 +35,7 @@
       "2023-05-28": 40,
       "2023-03-24": 596,
       "2023-03-23": 1320,
-      "2023-03-22": 276,
-      "2023-01-12": 313
+      "2023-03-22": 276
     }
   },
   {
@@ -45,15 +44,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/benfoster.dev.ico",
     "slug": "main-site",
     "status": "up",
-    "uptime": "95.26%",
+    "uptime": "95.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.97%",
     "uptimeYear": "96.52%",
     "time": 473,
-    "timeDay": 700,
-    "timeWeek": 494,
-    "timeMonth": 575,
+    "timeDay": 361,
+    "timeWeek": 457,
+    "timeMonth": 564,
     "timeYear": 473,
     "dailyMinutesDown": {
       "2023-12-29": 890,
@@ -75,8 +74,7 @@
       "2023-05-28": 39,
       "2023-03-24": 596,
       "2023-03-23": 1318,
-      "2023-03-22": 274,
-      "2023-01-12": 312
+      "2023-03-22": 274
     }
   },
   {
@@ -85,15 +83,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/benfoster.dev.ico",
     "slug": "choo-choo-api",
     "status": "up",
-    "uptime": "96.74%",
+    "uptime": "96.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.70%",
     "time": 242,
-    "timeDay": 377,
-    "timeWeek": 273,
-    "timeMonth": 221,
+    "timeDay": 232,
+    "timeWeek": 257,
+    "timeMonth": 222,
     "timeYear": 231,
     "dailyMinutesDown": {
       "2023-11-18": 1061,
@@ -114,8 +112,7 @@
       "2023-05-28": 37,
       "2023-03-24": 593,
       "2023-03-23": 1317,
-      "2023-03-22": 273,
-      "2023-01-12": 310
+      "2023-03-22": 273
     }
   },
   {
@@ -130,10 +127,10 @@
     "uptimeMonth": "97.97%",
     "uptimeYear": "96.53%",
     "time": 505,
-    "timeDay": 671,
-    "timeWeek": 505,
-    "timeMonth": 571,
-    "timeYear": 515,
+    "timeDay": 367,
+    "timeWeek": 472,
+    "timeMonth": 563,
+    "timeYear": 514,
     "dailyMinutesDown": {
       "2023-12-29": 890,
       "2023-11-18": 1061,
@@ -154,8 +151,7 @@
       "2023-05-28": 36,
       "2023-03-24": 593,
       "2023-03-23": 1315,
-      "2023-03-22": 269,
-      "2023-01-12": 309
+      "2023-03-22": 269
     }
   }
 ]
