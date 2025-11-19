@@ -9,12 +9,12 @@
     "uptimeDay": "90.53%",
     "uptimeWeek": "98.65%",
     "uptimeMonth": "99.69%",
-    "uptimeYear": "33.89%",
-    "time": 3175,
-    "timeDay": 460,
-    "timeWeek": 517,
-    "timeMonth": 535,
-    "timeYear": 4573,
+    "uptimeYear": "33.98%",
+    "time": 3176,
+    "timeDay": 453,
+    "timeWeek": 511,
+    "timeMonth": 538,
+    "timeYear": 4550,
     "dailyMinutesDown": {
       "2025-11-18": 136,
       "2025-08-02": 576,
@@ -258,8 +258,7 @@
       "2024-11-23": 1440,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
-      "2024-11-20": 1440,
-      "2024-11-19": 1440
+      "2024-11-20": 1440
     }
   },
   {
@@ -268,16 +267,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/benfoster.dev.ico",
     "slug": "main-site",
     "status": "up",
-    "uptime": "79.70%",
+    "uptime": "79.71%",
     "uptimeDay": "91.00%",
     "uptimeWeek": "98.71%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "33.90%",
+    "uptimeYear": "33.99%",
     "time": 3110,
-    "timeDay": 375,
-    "timeWeek": 501,
-    "timeMonth": 524,
-    "timeYear": 4754,
+    "timeDay": 373,
+    "timeWeek": 488,
+    "timeMonth": 526,
+    "timeYear": 4729,
     "dailyMinutesDown": {
       "2025-11-18": 130,
       "2025-08-02": 576,
@@ -520,8 +519,7 @@
       "2024-11-23": 1440,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
-      "2024-11-20": 1440,
-      "2024-11-19": 1440
+      "2024-11-20": 1440
     }
   },
   {
@@ -534,12 +532,12 @@
     "uptimeDay": "91.00%",
     "uptimeWeek": "98.71%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "33.90%",
+    "uptimeYear": "33.99%",
     "time": 2833,
-    "timeDay": 104,
-    "timeWeek": 212,
-    "timeMonth": 190,
-    "timeYear": 4429,
+    "timeDay": 102,
+    "timeWeek": 176,
+    "timeMonth": 192,
+    "timeYear": 4404,
     "dailyMinutesDown": {
       "2025-11-18": 130,
       "2025-08-02": 577,
@@ -782,8 +780,7 @@
       "2024-11-23": 1440,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
-      "2024-11-20": 1440,
-      "2024-11-19": 1440
+      "2024-11-20": 1440
     }
   },
   {
@@ -796,12 +793,12 @@
     "uptimeDay": "93.56%",
     "uptimeWeek": "99.08%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "33.91%",
-    "time": 3100,
-    "timeDay": 332,
-    "timeWeek": 432,
-    "timeMonth": 482,
-    "timeYear": 4700,
+    "uptimeYear": "34.00%",
+    "time": 3101,
+    "timeDay": 340,
+    "timeWeek": 423,
+    "timeMonth": 486,
+    "timeYear": 4675,
     "dailyMinutesDown": {
       "2025-11-18": 93,
       "2025-08-02": 577,
@@ -1044,8 +1041,7 @@
       "2024-11-23": 1440,
       "2024-11-22": 1440,
       "2024-11-21": 1440,
-      "2024-11-20": 1440,
-      "2024-11-19": 1440
+      "2024-11-20": 1440
     }
   }
 ]
