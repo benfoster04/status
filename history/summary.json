@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/canary.benfoster.dev.ico",
     "slug": "canary-page",
     "status": "down",
-    "uptime": "78.69%",
+    "uptime": "78.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "55.42%",
-    "time": 5615,
-    "timeDay": 19913,
-    "timeWeek": 19653,
-    "timeMonth": 19614,
-    "timeYear": 5999,
+    "time": 5660,
+    "timeDay": 19727,
+    "timeWeek": 19695,
+    "timeMonth": 19612,
+    "timeYear": 6045,
     "dailyMinutesDown": {
-      "2026-04-07": 122,
+      "2026-04-08": 123,
+      "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
       "2026-04-04": 1440,
@@ -179,8 +180,7 @@
       "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
-      "2025-04-09": 1440,
-      "2025-04-08": 1440
+      "2025-04-09": 1440
     }
   },
   {
@@ -189,18 +189,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/benfoster.dev.ico",
     "slug": "main-site",
     "status": "down",
-    "uptime": "78.81%",
+    "uptime": "78.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "55.42%",
-    "time": 5736,
-    "timeDay": 19361,
-    "timeWeek": 19588,
+    "time": 5781,
+    "timeDay": 19684,
+    "timeWeek": 19635,
     "timeMonth": 19644,
-    "timeYear": 6042,
+    "timeYear": 6089,
     "dailyMinutesDown": {
-      "2026-04-07": 122,
+      "2026-04-08": 123,
+      "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
       "2026-04-04": 1440,
@@ -363,8 +364,7 @@
       "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
-      "2025-04-09": 1440,
-      "2025-04-08": 1440
+      "2025-04-09": 1440
     }
   },
   {
@@ -373,18 +373,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/benfoster.dev.ico",
     "slug": "choo-choo-api",
     "status": "down",
-    "uptime": "75.00%",
+    "uptime": "74.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "55.42%",
-    "time": 5411,
+    "time": 5455,
     "timeDay": 19276,
     "timeWeek": 19276,
     "timeMonth": 19300,
-    "timeYear": 5717,
+    "timeYear": 5763,
     "dailyMinutesDown": {
-      "2026-04-07": 122,
+      "2026-04-08": 123,
+      "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
       "2026-04-04": 1440,
@@ -547,8 +548,7 @@
       "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
-      "2025-04-09": 1440,
-      "2025-04-08": 1440
+      "2025-04-09": 1440
     }
   },
   {
@@ -557,18 +557,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/code.benfoster.dev.ico",
     "slug": "code-page",
     "status": "down",
-    "uptime": "78.71%",
+    "uptime": "78.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "55.43%",
-    "time": 5694,
-    "timeDay": 19812,
-    "timeWeek": 19636,
-    "timeMonth": 19609,
-    "timeYear": 5995,
+    "time": 5739,
+    "timeDay": 19723,
+    "timeWeek": 19638,
+    "timeMonth": 19610,
+    "timeYear": 6042,
     "dailyMinutesDown": {
-      "2026-04-07": 122,
+      "2026-04-08": 123,
+      "2026-04-07": 1440,
       "2026-04-06": 1440,
       "2026-04-05": 1440,
       "2026-04-04": 1440,
@@ -731,8 +732,7 @@
       "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
-      "2025-04-09": 1440,
-      "2025-04-08": 1440
+      "2025-04-09": 1440
     }
   }
 ]
